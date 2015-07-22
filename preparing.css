@@ -6,6 +6,7 @@
 }
 
 .body{
+    font-size: 14px;
 	font-family: Times New Roman;
 	text-align: center;	
 }
@@ -19,4 +20,7 @@ h1{
 h2{
 	color:blue;
 	background:grey;
+}
+body{
+	font-size: 32px;
 }
